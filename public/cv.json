@@ -15,7 +15,7 @@
     },
     "summary": "Highly skilled .NET Developer with 6+ years of experience leveraging Agile and Waterfall methodologies to deliver efficient and collaborative projects. Proven ability to effectively communicate with clients, navigate complex requirements, and perform under pressure. Expertise in web application development using .NET Framework/Core, TypeScript, and related technologies. Strong problem-solving skills and stress resilience.",
     "skills": {
-        "Programming Languages": [
+        "Programming Languages | Technologies": [
             "C#",
             "ASP.NET Web API",
             "JavaScript/TypeScript",
@@ -49,7 +49,8 @@
             "EntityFramework",
             "MSTest/nUnit/xUnit",
             "Angular",
-            "VueJS"
+            "VueJS",
+            "React"
         ],
         "Operating Systems": [
             "Microsoft Windows",
@@ -80,7 +81,7 @@
                 "Task breakdown and requirements clarification",
                 "Code review",
                 "Code development (.NET/Angular/TypeScript)",
-                "Proactive AI tool usage"
+                "Leveraging AI tools for productivity enhancement"
             ]
         },
         {
@@ -151,7 +152,7 @@
             "customer": "US company",
             "teamSize": "14 team members",
             "technologies": [
-                "MS Visual Studio 2019 + ReSharper",
+                "Visual Studio 2019 + ReSharper",
                 "Rider",
                 ".NET Framework 4.5/4.8",
                 ".NET Core 2.2/3.1",
@@ -180,8 +181,8 @@
             "customer": "UK Company",
             "teamSize": "2 team members",
             "technologies": [
-                "MS Visual Studio 2019 + ReSharper",
-                ".NET Framework 4.67",
+                "Visual Studio 2019 + ReSharper",
+                ".NET Framework 4.7",
                 ".NET Core 2.2/3.1",
                 "ASP.NET MVC/WEB API",
                 "Jira",
@@ -204,13 +205,13 @@
             "title": "Full-stack .Net Developer",
             "project": "Platform for School and Study Process Management",
             "period": "January 2019 - October 2019",
-            "description": "The platform allows managing study process. Students are able to get all materials online and pass some exams, homework. teachers are able to create a lesson for class with custom study flow, review students’ exams and mark them, send requests to parents. Project using microservices architecture and TDD.",
+            "description": "The platform allows managing study process. Students are able to get all materials online and pass some exams, homework. Teachers are able to create a lesson for class with custom study flow, review students’ exams and mark them, send requests to parents. Project using microservices architecture and TDD.",
             "customer": "Lebanon company",
             "teamSize": "7 team members",
             "technologies": [
-                "MS Visual Studio 2019 + ReSharper",
+                "Visual Studio 2019 + ReSharper",
                 "WebStorm",
-                "MS Visual Studio Code",
+                "Visual Studio Code",
                 ".Net Core 2.1",
                 "Angular 7/8",
                 "MS SQL 2014",
@@ -231,12 +232,12 @@
             "title": "Full-stack .Net Developer",
             "project": "Web store",
             "period": "June 2018 - December 2018",
-            "description": "One of the biggest technical store in the region. The web store has multiregional support, multilanguage, various tools to combine products for sale as one.",
+            "description": "One of the biggest technical stores in the region. The web store has multi-regional support, multi-language, various tools to combine products for sale as one.",
             "customer": "Kazakhstan company",
             "teamSize": "5 team members",
             "technologies": [
-                "MS Visual Studio 2019 + ReSharper",
-                "MS Visual Studio Code",
+                "Visual Studio 2019 + ReSharper",
+                "Visual Studio Code",
                 "MS SQL 2014",
                 ".Net Core 2.1",
                 "Angular 5",
@@ -256,7 +257,7 @@
     "education": [
         {
             "degree": "Master of Computer Science",
-            "institution": "NEOVIRSITY",
+            "institution": "Neoversity",
             "period": "June 2024 - June 2026"
         }
     ],
