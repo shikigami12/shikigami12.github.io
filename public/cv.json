@@ -1,0 +1,158 @@
+{
+    "profile": {
+        "name": "Yevhen Khudoliiv",
+        "title": ".NET Developer",
+        "location": "Poland/Wroclaw",
+        "email": "eugenkhudoliiv@gmail.com",
+        "phone": "+38 093 9569622 / +48 572 710 755",
+        "linkedin": "https://www.linkedin.com/in/yevhen-khudoliiv/",
+        "telegram": "https://t.me/yevhenkhudoliiv",
+        "whatsapp": "+380939569622"
+    },
+    "summary": "Highly skilled .NET Developer with 6+ years of experience leveraging Agile and Waterfall methodologies to deliver efficient and collaborative projects. Proven ability to effectively communicate with clients, navigate complex requirements, and perform under pressure. Expertise in web application development using .NET Framework/Core, TypeScript, and related technologies. Strong problem-solving skills and stress resilience.",
+    "skills": {
+        "Programming Languages": [
+            "C#",
+            "ASP.NET Web API",
+            "JavaScript/TypeScript",
+            "HTML/CSS/Sass",
+            "XML/JSON/YAML",
+            "PowerShell/Bash/Shell",
+            "Python"
+        ],
+        "Databases": [
+            "MS SQL Server",
+            "MySQL",
+            "PostgreSQL"
+        ],
+        "Infrastructure": [
+            "Docker",
+            "Hyper-V",
+            "Podman",
+            "AWS",
+            "Azure DevOps",
+            "HashiCorp Vagrant",
+            "HashiCorp Vault",
+            "HashiCorp Packer",
+            "HashiCorp Terraform",
+            "HashiCorp Consul",
+            "IIS",
+            "Apache",
+            "Nginx"
+        ],
+        "Frameworks & Libraries": [
+            ".NET/.NET Core",
+            "EntityFramework",
+            "MSTest/nUnit/xUnit",
+            "Angular",
+            "VueJS"
+        ],
+        "Operating Systems": [
+            "Windows",
+            "Linux"
+        ]
+    },
+    "certifications": [
+        "Exam 483: Programming in C# - Microsoft",
+        "AWS Certified Cloud Practitioner"
+    ],
+    "experience": [
+        {
+            "title": "Full Stack Developer",
+            "project": "Enterprise Resource Planning (ERP) Platform for K-12 Education",
+            "period": "June 2025 - Dec 2025",
+            "description": "A multi-tenant, cloud-based ERP platform designed for the K-12 education sector. The system integrates modules for student information management, financial administration, HR, and payroll to streamline district-wide operations and reporting.",
+            "customer": "USA Company",
+            "teamSize": "20+ members",
+            "technologies": [
+                ".NET Core",
+                "Angular",
+                "Web API",
+                "GitHub",
+                "Git",
+                "Jenkins"
+            ],
+            "responsibilities": [
+                "Task breakdown and requirements clarification",
+                "Code review",
+                "Code development (.NET/Angular/TypeScript)"
+            ]
+        },
+        {
+            "title": "Infrastructure Team Lead",
+            "project": "Point of Sale Application",
+            "period": "November 2022 - May 2025",
+            "description": "Developed features for an industry-leading point-of-sale system designed to drive sales growth through enhanced guest spending, including customizable user interfaces, upsell workflows, transaction handling, and integration of solutions for game floor, sales, and customer management.",
+            "customer": "Singapore Company",
+            "teamSize": "20+ members",
+            "technologies": [
+                ".NET 6",
+                ".NET 8",
+                "PowerShell",
+                "Shell/Bash",
+                "Vagrant",
+                "Hyper-V",
+                "Ubuntu",
+                "Docker",
+                "Packer",
+                "Consul",
+                "Vault",
+                "Nginx",
+                "Redis"
+            ],
+            "responsibilities": [
+                "Task breakdown and requirements clarification",
+                "Code review",
+                "Azure pipeline management",
+                "Environment setup, script/package installation, and deployment",
+                "Virtualization and containerization",
+                "Code development (.NET/PowerShell/Bash/Yml/HCL)",
+                "Spearheaded development of a new virtual environment using Hyper-V and Docker"
+            ]
+        },
+        {
+            "title": "Full-stack .Net Developer",
+            "project": "Telecommunication e-commerce",
+            "period": "October 2021 - October 2022",
+            "description": "Developed and maintained a system with multiple microservices for aggregation and sale of telecommunication services as bundles for a company with over 40,000 employees across nine countries, including the UK and Ireland.",
+            "customer": "UK Company",
+            "teamSize": "5 members",
+            "technologies": [
+                "JetBrains Rider",
+                "Jira",
+                "GitLab",
+                "AWS",
+                ".Net Core 3.1/6",
+                "ASP MVC/WEB API",
+                "Typescript",
+                "VueJS",
+                "Scrum",
+                "Terraform",
+                "Docker"
+            ],
+            "responsibilities": [
+                "Scrum master activities",
+                "Requirement clarification and analysis",
+                "Task estimation",
+                "Code development (.NET/TypeScript/VueJs)",
+                "Unit and integration testing"
+            ]
+        },
+        {
+            "title": "Full-stack .Net Developer",
+            "project": "Document Management System",
+            "period": "January 2021 - October 2021",
+            "description": "Contributed to the development of a leading cloud-based document management service that provides secure creation, editing, storage, and collaboration on documents/emails across devices.",
+            "customer": "US company",
+            "teamSize": "N/A",
+            "technologies": [],
+            "responsibilities": [
+                "Estimation, prioritization, and distribution of tasks"
+            ]
+        }
+    ],
+    "languages": [
+        "English (Intermediate strong)",
+        "Ukrainian (native)"
+    ]
+}
