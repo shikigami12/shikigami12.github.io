@@ -11,7 +11,8 @@
         "linkedin": "https://www.linkedin.com/in/yevhen-khudoliiv/",
         "telegram": "https://t.me/yevhenkhudoliiv",
         "whatsapp": "+380939569622",
-        "photo": "photo.jpg"
+        "photo": "photo.jpg",
+        "downloadLink": "cv.pdf"
     },
     "summary": "Highly skilled .NET Developer with 6+ years of experience leveraging Agile and Waterfall methodologies to deliver efficient and collaborative projects. Proven ability to effectively communicate with clients, navigate complex requirements, and perform under pressure. Expertise in web application development using .NET Framework/Core, TypeScript, and related technologies. Strong problem-solving skills and stress resilience.",
     "skills": {

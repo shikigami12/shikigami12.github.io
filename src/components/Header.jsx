@@ -1,5 +1,5 @@
 import React from 'react';
-import { MapPin, Mail, Phone, Linkedin, Send, MessageCircle } from 'lucide-react';
+import { MapPin, Mail, Phone, Linkedin, Send, MessageCircle, FileDown } from 'lucide-react';
 
 const Header = ({ profile }) => {
     return (
@@ -39,7 +39,15 @@ const Header = ({ profile }) => {
                             </span>
                         )}
                     </div>
+                    <div className="mt-4 flex flex-wrap justify-center sm:justify-start gap-4 text-sm text-slate-300">
+                        {profile.downloadLink && (
+                            <a href={profile.downloadLink} target="_blank" rel="noreferrer" className="flex items-center gap-2 hover:text-white transition-colors">
+                                <FileDown size={14} /> Download CV
+                            </a>
+                        )}
+                    </div>
                 </div>
+
             </div>
 
             <div className="mt-6 sm:mt-0 flex flex-col items-center sm:items-end gap-2">
