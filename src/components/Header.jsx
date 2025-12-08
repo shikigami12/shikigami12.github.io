@@ -31,7 +31,11 @@ const Header = ({ profile }) => {
                         )}
                         {profile.phone && (
                             <span className="flex items-center gap-2">
-                                <Phone size={14} /> {profile.phone}
+                                {profile.phone.map((phone, index) => (
+                                    <a key={index} href={`tel:${phone}`} className="flex items-center gap-2 hover:text-white transition-colors">
+                                        <Phone size={14} /> {phone}
+                                    </a>
+                                ))}
                             </span>
                         )}
                     </div>

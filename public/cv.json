@@ -4,10 +4,14 @@
         "title": ".NET Developer",
         "location": "Poland/Wroclaw",
         "email": "eugenkhudoliiv@gmail.com",
-        "phone": "+38 093 9569622 / +48 572 710 755",
+        "phone": [
+            "+38 093 9569622",
+            "+48 572 710 755"
+        ],
         "linkedin": "https://www.linkedin.com/in/yevhen-khudoliiv/",
         "telegram": "https://t.me/yevhenkhudoliiv",
-        "whatsapp": "+380939569622"
+        "whatsapp": "+380939569622",
+        "photo": "photo.jpg"
     },
     "summary": "Highly skilled .NET Developer with 6+ years of experience leveraging Agile and Waterfall methodologies to deliver efficient and collaborative projects. Proven ability to effectively communicate with clients, navigate complex requirements, and perform under pressure. Expertise in web application development using .NET Framework/Core, TypeScript, and related technologies. Strong problem-solving skills and stress resilience.",
     "skills": {
@@ -48,7 +52,7 @@
             "VueJS"
         ],
         "Operating Systems": [
-            "Windows",
+            "Microsoft Windows",
             "Linux"
         ]
     },
@@ -60,9 +64,9 @@
         {
             "title": "Full Stack Developer",
             "project": "Enterprise Resource Planning (ERP) Platform for K-12 Education",
-            "period": "June 2025 - Dec 2025",
+            "period": "June 2025 - present",
             "description": "A multi-tenant, cloud-based ERP platform designed for the K-12 education sector. The system integrates modules for student information management, financial administration, HR, and payroll to streamline district-wide operations and reporting.",
-            "customer": "USA Company",
+            "customer": "US Company",
             "teamSize": "20+ members",
             "technologies": [
                 ".NET Core",
@@ -75,7 +79,8 @@
             "responsibilities": [
                 "Task breakdown and requirements clarification",
                 "Code review",
-                "Code development (.NET/Angular/TypeScript)"
+                "Code development (.NET/Angular/TypeScript)",
+                "Proactive AI tool usage"
             ]
         },
         {
@@ -144,11 +149,115 @@
             "period": "January 2021 - October 2021",
             "description": "Contributed to the development of a leading cloud-based document management service that provides secure creation, editing, storage, and collaboration on documents/emails across devices.",
             "customer": "US company",
-            "teamSize": "N/A",
-            "technologies": [],
+            "teamSize": "14 team members",
+            "technologies": [
+                "MS Visual Studio 2019 + ReSharper",
+                "Rider",
+                ".NET Framework 4.5/4.8",
+                ".NET Core 2.2/3.1",
+                "ASP.NET",
+                ".NET Web.API",
+                "IIS",
+                "Azure",
+                "Git",
+                "REST",
+                "Postman",
+                "Angular"
+            ],
             "responsibilities": [
-                "Estimation, prioritization, and distribution of tasks"
+                "Estimation, prioritization, and distribution of tasks",
+                "Design and architecture of new API",
+                "Design and architecture of new UI components",
+                "Code development (.NET/Angular)",
+                "Manual application deployment"
             ]
+        },
+        {
+            "title": "Full-stack .Net Developer",
+            "project": "Medical Screening Service Company",
+            "period": "November 2019 - January 2021",
+            "description": "Developed solutions for a medical screening service company providing laboratory testing, doctor appointments, phlebotomy, and sample collection, including integration with insurance companies.",
+            "customer": "UK Company",
+            "teamSize": "2 team members",
+            "technologies": [
+                "MS Visual Studio 2019 + ReSharper",
+                ".NET Framework 4.67",
+                ".NET Core 2.2/3.1",
+                "ASP.NET MVC/WEB API",
+                "Jira",
+                "Bitbucket",
+                "Postman",
+                "MSSQL",
+                "MySql",
+                "SSMS",
+                "DBeaver"
+            ],
+            "responsibilities": [
+                "Estimation, prioritization, and distribution of tasks",
+                "Design and architecture of new API",
+                "Code development",
+                "Manual application deployment",
+                "Migration MSSQL to MySql"
+            ]
+        },
+        {
+            "title": "Full-stack .Net Developer",
+            "project": "Platform for School and Study Process Management",
+            "period": "January 2019 - October 2019",
+            "description": "The platform allows managing study process. Students are able to get all materials online and pass some exams, homework. teachers are able to create a lesson for class with custom study flow, review students’ exams and mark them, send requests to parents. Project using microservices architecture and TDD.",
+            "customer": "Lebanon company",
+            "teamSize": "7 team members",
+            "technologies": [
+                "MS Visual Studio 2019 + ReSharper",
+                "WebStorm",
+                "MS Visual Studio Code",
+                ".Net Core 2.1",
+                "Angular 7/8",
+                "MS SQL 2014",
+                "TFS",
+                "REST",
+                "Postman",
+                "Scrum"
+            ],
+            "responsibilities": [
+                "Task estimation",
+                "Backend and frontend development",
+                "Design API microservice",
+                "Unit testing",
+                "Documentation maintenance"
+            ]
+        },
+        {
+            "title": "Full-stack .Net Developer",
+            "project": "Web store",
+            "period": "June 2018 - December 2018",
+            "description": "One of the biggest technical store in the region. The web store has multiregional support, multilanguage, various tools to combine products for sale as one.",
+            "customer": "Kazakhstan company",
+            "teamSize": "5 team members",
+            "technologies": [
+                "MS Visual Studio 2019 + ReSharper",
+                "MS Visual Studio Code",
+                "MS SQL 2014",
+                ".Net Core 2.1",
+                "Angular 5",
+                "JS",
+                "Git",
+                "Postman",
+                "Docker",
+                "Waterfall"
+            ],
+            "responsibilities": [
+                "Backend and frontend development",
+                "Integration with third-party service",
+                "Product support and documentation maintenance"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Science",
+            "institution": "NEOVIRSITY",
+            "period": "June 2024 - June 2026"
         }
     ],
     "languages": [
